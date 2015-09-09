@@ -38,7 +38,7 @@ a {
   text-align: center;
   -webkit-backface-visibility: hidden;
    color: #000;
-   top: 50%;
+   /*top: 50%;*/
 }
 
 .back {
@@ -48,7 +48,7 @@ a {
   text-align: center;
   -webkit-backface-visibility: hidden;
    color: #000;
-   top: -50%;
+   /*top: -50%;*/
 
  }
 
